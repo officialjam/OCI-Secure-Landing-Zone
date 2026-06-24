@@ -219,5 +219,4 @@ Access permissions should be restricted to only what is required.
 * OCI IAM
 * OCI Vault
 * Terraform on OCI
-* GitHub Actions
 * Cloud Security Architecture
