@@ -79,31 +79,6 @@ OCI IAM
 
 ---
 
-## Repository Structure
-
-```text
-oci-secure-landing-zone/
-
-├── provider.tf
-├── variables.tf
-├── outputs.tf
-
-├── network.tf
-├── security.tf
-├── compute.tf
-├── iam.tf
-├── vault.tf
-├── monitoring.tf
-
-├── README.md
-
-└── .github/
-    └── workflows/
-        └── terraform.yml
-```
-
----
-
 ## Security Controls Implemented
 
 ### Network Segmentation
