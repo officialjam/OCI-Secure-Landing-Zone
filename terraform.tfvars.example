@@ -1,0 +1,9 @@
+region           = "uk-london-1"
+compartment_ocid = "replace-with-your-compartment-ocid"
+
+tenancy_ocid     = "replace-with-your-tenancy-ocid"
+user_ocid        = "replace-with-your-user-ocid"
+
+fingerprint      = "replace-with-your-fingerprint"
+
+private_key_path = "~/.oci/oci_api_key.pem"
