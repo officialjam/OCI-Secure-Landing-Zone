@@ -220,3 +220,7 @@ Access permissions should be restricted to only what is required.
 * OCI Vault
 * Terraform on OCI
 * Cloud Security Architecture
+
+---
+
+Please note, Rename terraform.tfvars.example → terraform.tfvars before running terraform apply
